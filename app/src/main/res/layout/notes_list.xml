@@ -55,7 +55,7 @@
                 android:textStyle="normal"
                 android:maxLines="10"
                 android:padding="8dp"
-                android:textColor="@color/grey"
+                android:textColor="@color/purple_200"
                 android:singleLine="true"
                 android:ellipsize="marquee"
                 android:marqueeRepeatLimit="marquee_forever"
